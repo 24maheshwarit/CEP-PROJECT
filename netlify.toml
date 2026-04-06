@@ -1,4 +1,3 @@
 [build]
   base = "sos-dashboard"
-  command = "npm run build"
-  publish = "dist"
+  publish = "."
